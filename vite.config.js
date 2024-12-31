@@ -5,5 +5,5 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
  // base:'https://marceceru.github.io/Agency-Landing-Page',
-  base: 'https://marceceru.gitlab.io/Agency-Landin-page',
+  base: 'https://marceceru.githab.io/Agency-Landin-page/',
 })
