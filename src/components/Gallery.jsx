@@ -1,4 +1,4 @@
-import { Image } from "./image"
+import { Image } from "./Image"
 import milkBottlesImgMobile from '../assets/mobile/image-gallery-milkbottles.jpg'
 import milkBottlesImgDesktop from '../assets/desktop/image-gallery-milkbottles.jpg'
 import orangeImageMobile from '../assets/mobile/image-gallery-orange.jpg'
