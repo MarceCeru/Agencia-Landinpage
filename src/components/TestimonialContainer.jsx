@@ -5,9 +5,9 @@ import jeniePhoto from '../assets/image-jennie.jpg'
 
 export const TestimonialContainer = () => {
     return (
-        <section className="bg-white pt-16">
-            <h2 className="text-center uppercase font-Fraunces mb-16 text-Grayish-blue">Client testimonials</h2>
-            <div className="lg:flex lg:w-[900px] lg:mx-auto xl:w-[1110px]">
+        <section className="bg-white pt-[165px]">
+            <h2 className="text-center uppercase font-Fraunces mb-16 text-Grayish-blue lg:text-[26px] lg:tracking-[0.08em] lg:mb-20">Client testimonials</h2>
+            <div className="lg:flex lg:w-[900px] lg:mx-auto xl:w-[1210px]">
                 <Testimonial
                     img={emilyPhoto}
                     Testimonial=' We put our trust in Sunnyside and they delivered, making sure our needs were met and deadlines were always hit.'
